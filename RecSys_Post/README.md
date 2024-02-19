@@ -10,7 +10,7 @@
 
 Пайплайн работы над проетом:
 
-1. Загрузка данных из БД в Jupyter Hub, обзор данных (файл: https://github.com/marumm/Karpov_Courses/blob/9fa221fe7b45de396ad947b6ca6e5f4046699ad8/RecSys_Post/download_data_for_recsys.ipynb)
+1. Загрузка данных из БД в Jupyter Hub, обзор данных (файл: RecSys_Post/download_data_for_recsys.ipynb)
 
 2. Создание признаков и обучающей выборки. Например, могут быть использованы признаки о пользователе, тексты постов и прочие статистики
 
