@@ -12,7 +12,7 @@ from sqlalchemy.orm import sessionmaker
 from sqlalchemy.orm import Session
 
 
-engine = create_engine(    )         #Здесь были прописанн путь для подключения к серверу на котором хранились данные о пользователях
+engine = create_engine(    )         #Здесь был прописанн путь для подключения к серверу на котором хранились данные о пользователях
 
 conn = engine.connect().execution_options(stream_results=True)
 
