@@ -12,9 +12,9 @@
 
 1. Загрузка данных из БД в Jupyter Hub, обзор данных (файл: [RecSys_Post/download_data_for_recsys.ipynb](https://github.com/marumm/Karpov_Courses/blob/61d6e77a34000f93df5cb6dcd7cb8c995bc387f1/RecSys_Post/download_data_for_recsys.ipynb))
 
-2. Создание признаков для обучения модели (([RecSys_Post/rec_sys_ver1.ipynb](https://github.com/marumm/Karpov_Courses/blob/61d6e77a34000f93df5cb6dcd7cb8c995bc387f1/RecSys_Post/rec_sys_ver1.ipynb)))
-4. Тренировка модели на Jupyter Hub и оценка ее качества на валидационной выборке (файл: [https://github.com/marumm/Karpov_Courses/blob/e735a218d1bff6d22969bc6742b55e2fa7313179/RecSys_Post/rec_sys_ver1.ipynb](https://github.com/marumm/Karpov_Courses/blob/e79de6d83c768156e155a10a16d4a42ed1aafa50/RecSys_Post/rec_sys_ver1.ipynb))
+2. Создание признаков для обучения модели ([RecSys_Post/rec_sys_ver1.ipynb](https://github.com/marumm/Karpov_Courses/blob/61d6e77a34000f93df5cb6dcd7cb8c995bc387f1/RecSys_Post/rec_sys_ver1.ipynb))
+3. Тренировка модели на Jupyter Hub и оценка ее качества на валидационной выборке (файл: [RecSys_Post/rec_sys_ver1.ipynb](https://github.com/marumm/Karpov_Courses/blob/e79de6d83c768156e155a10a16d4a42ed1aafa50/RecSys_Post/rec_sys_ver1.ipynb))
 
-5. Сохранение модели 
+4. Сохранение модели 
 
-6. Написание сервиса: загрузка модели -> получение признаков для модели по user_id -> предсказание постов, которые лайкнут -> возвращение ответа
+5. Написание сервиса: загрузка модели -> получение признаков для модели по user_id -> предсказание постов, которые лайкнут -> возвращение ответа
