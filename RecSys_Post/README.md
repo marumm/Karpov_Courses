@@ -12,7 +12,7 @@
 
 1. Загрузка данных из БД в Jupyter Hub, обзор данных (файл: [RecSys_Post/download_data_for_recsys.ipynb](https://github.com/marumm/Karpov_Courses/blob/61d6e77a34000f93df5cb6dcd7cb8c995bc387f1/RecSys_Post/download_data_for_recsys.ipynb))
 
-2. Создание признаков и обучающей выборки. Например, могут быть использованы признаки о пользователе, тексты постов и прочие статистики
+2. Создание признаков для обучения модели 
 
 3. Тренировка модели на Jupyter Hub и оценка ее качества на валидационной выборке 
 
