@@ -11,7 +11,7 @@
 
 Задача - Написать сервер, который по id-пользователя и времени будет давать персональные рекомендации постов
 ------------------------------------------
-Пайплайн работы над проектом:
+### Пайплайн работы над проектом:
 
 1. Загрузка данных из БД в Jupyter Hub, обзор данных (файл: [RecSys_Post/download_data_for_recsys.ipynb](https://github.com/marumm/Karpov_Courses/blob/61d6e77a34000f93df5cb6dcd7cb8c995bc387f1/RecSys_Post/download_data_for_recsys.ipynb))
 
